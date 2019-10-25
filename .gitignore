@@ -1,2 +1,3 @@
 *.txt
-.ipynb_checkpoints/git and github-checkpoint.ipynb
+.ipynb_checkpoints/
+/.ipynb_checkpoints
