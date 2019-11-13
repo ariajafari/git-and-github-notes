@@ -1,4 +1,4 @@
-# Lectures on  Git and GitHub
+## Lectures on  Git and GitHub
 
 
 A set of lectures on **Git and GitHub**, using *Jupyter notebooks*.
@@ -12,6 +12,8 @@ To open these notebooks in *Jupyter*, download the files to a directory on your 
 
 
 This will open a new page in your browser with the available notebook.
+
+[![license](https://img.shields.io/badge/license-Creative%20Common-brightgreen)](https://en.wikipedia.org/wiki/Creative_Commons)
 
 
 Table of contents to be added...
