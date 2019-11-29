@@ -1,9 +1,9 @@
 ## Lectures on  Git and GitHub
-
+this is in remote which cause the conflict
 
 A set of lectures on **Git and GitHub**, using *Jupyter notebooks*.
 
-
+this is in remote which doesn't cause conflict
 
 To open these notebooks in *Jupyter*, download the files to a directory on your computer and from that directory run:
 
