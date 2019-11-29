@@ -1,5 +1,5 @@
 ## Lectures on  Git and GitHub
-
+this is in local git 
 
 A set of lectures on **Git and GitHub**, using *Jupyter notebooks*.
 
